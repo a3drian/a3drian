@@ -1,4 +1,13 @@
-### Hi there 👋
+<b>GET</b> ```localhost:8080/a3drian```
+
+```json
+{
+  "Name": "Teodor-Adrian Manghiuc",
+  "Title": "Junior Web Developer",
+  "Languages": ["JavaScript/TypeScript", "C#"],
+  "Tools": ["Angular", "Node.js"]
+}
+```
 
 <!--
 **a3drian/a3drian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
