@@ -9,6 +9,8 @@
 }
 ```
 
+Check out my latest application, [FoodSpy](https://foodspy.live/), a calorie tracker built with Angular, Node.js and .NET.
+
 <!--
 **a3drian/a3drian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
