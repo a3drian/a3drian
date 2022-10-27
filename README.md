@@ -5,7 +5,7 @@
   "Name": "Teodor-Adrian Manghiuc",
   "Title": "Junior Web Developer",
   "Languages": ["JavaScript/TypeScript", "C#"],
-  "Tools": ["Angular", "Node.js"]
+  "Tools": ["Angular", "Lit", "Node.js"]
 }
 ```
 
