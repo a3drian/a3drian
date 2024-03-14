@@ -3,9 +3,9 @@
 ```json
 {
   "Name": "Teodor-Adrian Manghiuc",
-  "Title": "Frontend/Web Developer",
-  "Languages": ["JavaScript/TypeScript", "C#"],
-  "Tools": ["Angular", "Express", "Lit", "Node.js"]
+  "Title": "Frontend Developer | Web components",
+  "Languages": ["JavaScript/TypeScript"],
+  "Tools": ["Angular", "Express.j", "Lit", "MongoDB", "Node.js"]
 }
 ```
 
